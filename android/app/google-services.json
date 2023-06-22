@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890920591478",
+    "project_id": "snackup-6490b",
+    "storage_bucket": "snackup-6490b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890920591478:android:0fe309e48838a3581d7f57",
+        "android_client_info": {
+          "package_name": "com.example.snackit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890920591478-6i91vl7lsb0rb391uv3v2r85lladf7tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRsRFT4QriJvGuUgJWVHdzWFySpHjwFt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890920591478-6i91vl7lsb0rb391uv3v2r85lladf7tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
